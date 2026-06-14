@@ -1,13 +1,20 @@
 # Weather App
 
-A simple weather application built using JavaScript.
+A simple weather application built using HTML, CSS and JavaScript.
+
+## Preview
+
+[Weather App](weather-preview)
 
 ## Features
-- Search for city weather
-- Displays temperature
-- Shows weather condition
+- Search weather by city
+- Responsive design
+- Clean user interface
 
-## Technologies
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+https://dave45-vic.github.io/Weather/
