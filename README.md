@@ -17,4 +17,4 @@ A simple weather application built using HTML, CSS and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://dave45-vic.github.io/Weather/
+[https://dave45-vic.github.io/Weather/](https://dave45-vic.github.io/Weather.app/)
